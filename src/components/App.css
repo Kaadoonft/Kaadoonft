@@ -127,7 +127,7 @@ a, a:hover {
 .button {
     padding: 1em 2em;
     margin: .5em auto;
-
+    color: #000000;
    background-color: #92D3F5;
 
     border: none;
@@ -135,7 +135,7 @@ a, a:hover {
 
     text-transform: uppercase;
     text-decoration: none;
-    text-color:#FFFFFF;
+    
     font-weight: 700;
 
     transition: all 500ms ease;
